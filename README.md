@@ -14,6 +14,4 @@ How to Use:
 
 2. Open index.html in a browser.
 
-Live Demo:
-
-1. https://bootstrap-fb-sk.netlify.app/
+Live Demo: https://bootstrap-fb-sk.netlify.app/
